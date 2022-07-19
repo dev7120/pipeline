@@ -15,7 +15,7 @@ steps:
     mavenPomFile: 'pom.xml'
     publishJUnitResults: false
     javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.8'
+    jdkVersionOption: '1.7'
     mavenVersionOption: "Default"
     mavenAuthenticateFeed: false
     effectivePomSkip: false
