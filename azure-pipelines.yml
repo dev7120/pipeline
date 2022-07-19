@@ -16,7 +16,7 @@ steps:
     publishJUnitResults: false
     javaHomeOption: 'JDKVersion'
     jdkVersionOption: '1.8'
-    mavenVersionOption: 'Path'
+    mavenVersionOption: "Default"
     mavenAuthenticateFeed: false
     effectivePomSkip: false
     sonarQubeRunAnalysis: false
